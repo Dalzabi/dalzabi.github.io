@@ -9,7 +9,7 @@
 <body>
 <a-scene>
 <a-assets>
-<a-asset-item id="
+<a-asset-item id="vr" src="untitled.glb">
 </a-assets>
 <a-entity gltf-model="
 " rotation="0 0 0" position="0 0 0"></a-entity>
